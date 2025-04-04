@@ -1,1 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Black background */
+    color: white; /* White text */
+    margin: 0;
+    padding: 0;
+}
 
+header {
+    text-align: center;
+    background-color: #000; /* Black background */
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    color: #ff6347; /* Tomato color for title */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+section {
+    text-align: center;
+    padding: 20px;
+}
